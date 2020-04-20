@@ -14,8 +14,12 @@
   </div>
 <!-- photo upload -->
 
-
-
+***NOTE** must have to change for new photo fields
+>>$media->photo
+>>img_photo ->only after img_ match with variable name
+>>button id="profile" 
+>>button onclick="openUploadModal('profile')"
+>>button data-field="photo"
 
 
 
